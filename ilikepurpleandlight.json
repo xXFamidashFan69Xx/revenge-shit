@@ -23,6 +23,10 @@
         "BACKGROUND_BRAND": [
             "#00FFFF",
             "#FF00FF"
+        ],
+        "CHANNEL_BACKGROUND_DEFAULT": [
+            "#FF0000",
+            "#FF0000"
         ]
     },
     "rawColors": {
