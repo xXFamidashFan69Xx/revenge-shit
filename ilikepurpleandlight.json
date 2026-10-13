@@ -28,9 +28,25 @@
             "#ffffff",
             "#ffffff"
         ],
-       "PANEL_BG": [
+        "PANEL_BG": [
             "#f6f5f7",
             "#f6f5f7"
+        ],
+        "TEXT_STRONG": [
+            "#120008",
+            "#120008"
+        ],
+        "TEXT_SUBTLE": [
+            "#FF0000",
+            "#FF0000"
+        ],
+        "TEXT_MUTED": [
+            "#00FF00",
+            "#00FF00"
+        ],
+        "TEXT_DEFAULT": [
+            "#0000FF",
+            "#0000FF"
         ]
     },
     "rawColors": {
