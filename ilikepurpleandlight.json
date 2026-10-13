@@ -9,16 +9,20 @@
     ],
     "semanticColors": {
         "BACKGROUND_BASE_LOW": [
+            "#FF0000",
             "#FF0000"
         ],
         "BACKGROUND_BASE_LOWER": [
-            "#00FF00"
+            "#00FF00",
+            '#00FF00"
         ],
         "BACKGROUND_BASE_LOWEST": [
+            "#0000FF",
             "#0000FF"
         ],
         "BACKGROUND_BRAND": [
-            "#00FFFF"
+            "#00FFFF",
+            "#FF00FF"
         ]
     },
     "rawColors": {
