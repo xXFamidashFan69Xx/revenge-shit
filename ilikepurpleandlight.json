@@ -1,0 +1,27 @@
+{
+    "name": "i like purple and light",
+    "description": "Light purple theme because there aren't enough light mode themes",
+    "authors": [
+        {
+            "name": "banana6000",
+            "id": "980544625301414018"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_BASE_LOW": [
+            "#000000",
+            "#00FF00",
+            "#000000"
+        ]
+    },
+    "rawColors": {
+
+    },
+    "background": {
+
+    },
+    "spec": 2,
+    "plus": {
+        "version": 0
+    }
+}
