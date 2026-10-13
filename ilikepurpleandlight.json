@@ -13,24 +13,24 @@
             "#FF0000"
         ],
         "BACKGROUND_BASE_LOWER": [
-            "#00FF00",
-            "#00FF00"
+            "#b9a1cc",
+            "#b9a1cc"
         ],
         "BACKGROUND_BASE_LOWEST": [
-            "#0000FF",
-            "#0000FF"
+            "#dfc9f0",
+            "#dfc9f0"
         ],
         "BACKGROUND_BRAND": [
-            "#00FFFF",
-            "#FF00FF"
+            "#af47ff",
+            "#af47ff"
         ],
         "CHANNEL_BACKGROUND_DEFAULT": [
-            "#FF0000",
-            "#FF0000"
+            "#ffffff",
+            "#ffffff"
         ],
        "PANEL_BG": [
-            "#FFFF00",
-            "#FFFF00"
+            "#ffffff",
+            "#ffffff"
         ]
     },
     "rawColors": {
