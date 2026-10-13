@@ -9,8 +9,8 @@
     ],
     "semanticColors": {
         "BACKGROUND_BASE_LOW": [
-            "#FF0000",
-            "#FF0000"
+            "#250b30",
+            "#250b30"
         ],
         "BACKGROUND_BASE_LOWER": [
             "#e3d5ed",
@@ -27,6 +27,10 @@
         "CHANNEL_BACKGROUND_DEFAULT": [
             "#ffffff",
             "#ffffff"
+        ],
+        "CARD_MUTED_BG": [
+            "#ccbddb",
+            "#ccbddb"
         ],
         "PANEL_BG": [
             "#f6f5f7",
