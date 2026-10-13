@@ -28,9 +28,13 @@
             "#ffffff",
             "#ffffff"
         ],
+        "CARD_BACKGROUND_DEFAULT": [
+            "#d6cae3",
+            "#d6cae3"
+        ],
         "CARD_MUTED_BG": [
-            "#ccbddb",
-            "#ccbddb"
+            "#e1dce6",
+            "#e1dce6"
         ],
         "PANEL_BG": [
             "#f6f5f7",
