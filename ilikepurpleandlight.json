@@ -8,18 +8,18 @@
         }
     ],
     "semanticColors": {
-        "BACKGROUND_BASE_LOW": {
-            "light": "#FF0000"
-        },
-        "BACKGROUND_BASE_LOWER": {
-            "light": "#00FF00"
-        },
-        "BACKGROUND_BASE_LOWEST": {
-            "light": "#0000FF"
-        },
-        "BACKGROUND_BRAND": {
-            "light": "#00FFFF"
-        }
+        "BACKGROUND_BASE_LOW": [
+            "#FF0000"
+        ],
+        "BACKGROUND_BASE_LOWER": [
+            "#00FF00"
+        ],
+        "BACKGROUND_BASE_LOWEST": [
+            "#0000FF"
+        ],
+        "BACKGROUND_BRAND": [
+            "#00FFFF"
+        ]
     },
     "rawColors": {
 
