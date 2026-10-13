@@ -9,24 +9,16 @@
     ],
     "semanticColors": {
         "BACKGROUND_BASE_LOW": {
-            "light": [
-                "#FF0000"
-            ]
+            "light": "#FF0000"
         },
         "BACKGROUND_BASE_LOWER": {
-            "light": [
-                "#00FF00"
-            ]
+            "light": "#00FF00"
         },
         "BACKGROUND_BASE_LOWEST": {
-            "light": [
-                "#0000FF"
-            ]
+            "light": "#0000FF"
         },
         "BACKGROUND_BRAND": {
-            "light": [
-                "#00FFFF"
-            ]
+            "light": "#00FFFF"
         }
     },
     "rawColors": {
