@@ -32,6 +32,10 @@
             "#d6cae3",
             "#d6cae3"
         ],
+        "CARD_SECONDARY_BG": [
+            "#ebe6f0",
+            "#ebe6f0"
+        ],
         "CARD_MUTED_BG": [
             "#e1dce6",
             "#e1dce6"
