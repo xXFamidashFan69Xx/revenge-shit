@@ -37,16 +37,16 @@
             "#120008"
         ],
         "TEXT_SUBTLE": [
-            "#FF0000",
-            "#FF0000"
+            "#d5a2eb",
+            "#d5a2eb"
         ],
         "TEXT_MUTED": [
-            "#00FF00",
-            "#00FF00"
+            "#f8e8ff",
+            "#f8e8ff"
         ],
         "TEXT_DEFAULT": [
-            "#0000FF",
-            "#0000FF"
+            "#b56bff",
+            "#b56bff"
         ]
     },
     "rawColors": {
