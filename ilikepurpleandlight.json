@@ -8,29 +8,29 @@
         }
     ],
     "semanticColors": {
-        "BACKGROUND_BASE_LOW": [
-            "#00FF00",
-            "#00FF00",
-            "#000000"
-        ],
-        "BACKGROUND_BASE_LOWER": [
-            "#FF0000",
-            "#FF0000",
-            "#000000"
-        ],
-        "BACKGROUND_BASE_LOWEST": [
-            "#0000FF",
-            "#0000FF",
-            "#000000"
-        ],
-        "BACKGROUND_BRAND": [
-            "#FFFF00",
-            "#FFFF00",
-            "#000000"
-        ]
+        "BACKGROUND_BASE_LOW": {
+            "light": [
+                "#FF0000"
+            ]
+        },
+        "BACKGROUND_BASE_LOWER": {
+            "light": [
+                "#00FF00"
+            ]
+        },
+        "BACKGROUND_BASE_LOWEST": {
+            "light": [
+                "#0000FF"
+            ]
+        },
+        "BACKGROUND_BRAND": {
+            "light": [
+                "#00FFFF"
+            ]
+        }
     },
     "rawColors": {
-        "PLUM_20": "#00FFFF"
+
     },
     "background": {
 
