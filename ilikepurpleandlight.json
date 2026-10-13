@@ -55,6 +55,14 @@
         "TEXT_DEFAULT": [
             "#472866",
             "#472866"
+        ],
+        "REDESIGN_CHANNEL_NAME_MUTED_TEXT": [
+            "#bcb3c4",
+            "#bcb3c4"
+        ],
+        "REDESIGN_CHANNEL_NAME_TEXT": [
+            "#635175",
+            "#635175"
         ]
     },
     "rawColors": {
