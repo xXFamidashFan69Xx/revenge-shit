@@ -27,6 +27,10 @@
         "CHANNEL_BACKGROUND_DEFAULT": [
             "#FF0000",
             "#FF0000"
+        ],
+       "PANEL_BG": [
+            "#FFFF00",
+            "#FFFF00"
         ]
     },
     "rawColors": {
