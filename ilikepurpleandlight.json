@@ -9,8 +9,8 @@
     ],
     "semanticColors": {
         "BACKGROUND_BASE_LOW": [
-            "#250b30",
-            "#250b30"
+            "#82479c",
+            "#82479c"
         ],
         "BACKGROUND_BASE_LOWER": [
             "#e3d5ed",
@@ -21,8 +21,12 @@
             "#f7edff"
         ],
         "BACKGROUND_BRAND": [
-            "#9448cf",
-            "#9448cf"
+            "#a659e3",
+            "#a659e3"
+        ],
+        "BADGE_BACKGROUND_BRAND": [
+            "#a659e3",
+            "#a659e3"
         ],
         "CHANNEL_BACKGROUND_DEFAULT": [
             "#ffffff",
