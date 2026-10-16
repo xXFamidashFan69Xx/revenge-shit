@@ -9,8 +9,8 @@
     ],
     "semanticColors": {
         "BACKGROUND_BASE_LOW": [
-            "#ded3e3",
-            "#ded3e3"
+            "#e2dee3",
+            "#e2dee3"
         ],
         "BACKGROUND_BASE_LOWER": [
             "#e3d5ed",
@@ -115,7 +115,20 @@
         "REDESIGN_CHANNEL_NAME_TEXT": [
             "#635175",
             "#635175"
+        ],
+        "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
+            "#ff80d57f",
+            "#ff80d57f"
+        ],
+        "MENTION_BACKGROUND": [
+            "#ff80d57f",
+            "#ff80d57f"
+        ],
+        "MENTION_FOREGROUND": [
+            "#ff54b5",
+            "#ff54b5"
         ]
+        
     },
     "rawColors": {
 
@@ -125,6 +138,7 @@
     },
     "spec": 2,
     "plus": {
-        "version": 0
+        "version": 0,
+        "mentionLineColor": "#ff80d5"
     }
 }
