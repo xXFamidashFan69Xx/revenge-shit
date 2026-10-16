@@ -36,7 +36,35 @@
             "#a659e3",
             "#a659e3"
         ],
+        "CONTROL_PRIMARY_BORDER_DEFAULT": [
+            "#a659e3",
+            "#a659e3"
+        ],
+        "CONTROL_EXPRESSIVE_BACKGROUND_DEFAULT": [
+            "#ffffff",
+            "#a659e3"
+        ],
+        "INTERACTIVE_ACCENT_BACKGROUND_SELECTED": [
+            "#a659e3",
+            "#a659e3"
+        ],
         "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
+            "#a659e3",
+            "#a659e3"
+        ],
+        "PROGRESSBAR_INDICATOR_BACKGROUND": [
+            "#a659e3",
+            "#a659e3"
+        ],
+        "REDESIGN_INPUT_CONTROL_SELECTED": [
+            "#a659e3",
+            "#a659e3"
+        ],
+        "SWITCH_BACKGROUND_SELECTED_DEFAULT": [
+            "#a659e3",
+            "#a659e3"
+        ],
+        "SWITCH_THUMB_ICON_ACTIVE": [
             "#a659e3",
             "#a659e3"
         ],
@@ -75,6 +103,10 @@
         "TEXT_DEFAULT": [
             "#472866",
             "#472866"
+        ],
+        "TEXT_LINK": [
+            "#f01da2",
+            "#f01da2"
         ],
         "REDESIGN_CHANNEL_NAME_MUTED_TEXT": [
             "#bcb3c4",
