@@ -117,16 +117,16 @@
             "#635175"
         ],
         "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
-            "#ff80d57f",
-            "#ff80d57f"
+            "#da54ff3f",
+            "#da54ff3f"
         ],
         "MENTION_BACKGROUND": [
-            "#ff80d57f",
-            "#ff80d57f"
+            "#da54ff3f",
+            "#da54ff3f"
         ],
         "MENTION_FOREGROUND": [
-            "#ff54b5",
-            "#ff54b5"
+            "#c326fc",
+            "#c326fc"
         ]
         
     },
@@ -139,6 +139,6 @@
     "spec": 2,
     "plus": {
         "version": 0,
-        "mentionLineColor": "#ff80d5"
+        "mentionLineColor": "#c326fc"
     }
 }
